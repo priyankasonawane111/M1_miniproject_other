@@ -1,1 +1,1 @@
-# M1_miniproject_other
+# M1_project_scientific_calculator
