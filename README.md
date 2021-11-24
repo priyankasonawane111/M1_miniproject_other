@@ -6,6 +6,14 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 [![C/C++ CI - Build Status](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/code_quality_dyanamic.yml/badge.svg)](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/code_quality_dyanamic.yml) [![CI-Coverage](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/gcov.yml/badge.svg)](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/gcov.yml)| [![Unit Testing - Unity](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/gitinspector.yml)
 
+[![Linux C/C++ CI](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/c-cpp%20Ubuntu.yml/badge.svg)](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/c-cpp%20Ubuntu.yml)
+
+
+[![C/C++ CI Windows](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/c-cpp%20windows.yml/badge.svg)](https://github.com/priyankasonawane111/M1_project_scientific_calculator/actions/workflows/c-cpp%20windows.yml)
+
+
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
