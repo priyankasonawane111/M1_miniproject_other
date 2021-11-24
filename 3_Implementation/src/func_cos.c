@@ -3,8 +3,8 @@
 #include<math.h>
 #include"header.h"
 
-error coss(calc_st n,result_t* answer)
+error factorial(calc_st n,result_t* answer)
 {
-     answer->final_answer=cos((n.num_1*3.14159)/180);
+     answer->final_answer=fac(n!);
      return SUCCESS;
 }
