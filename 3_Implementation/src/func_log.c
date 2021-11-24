@@ -3,7 +3,7 @@
 #include<math.h>
 
 /**
- * @brief logg function which returns the desired result using answer variable
+ * @brief modulus function which returns the desired result using answer variable
  * 
  * @param n 
  * @param answer 
@@ -12,6 +12,6 @@
 
 error logg(calc_st n,result* answer)
 {
-    answer->final_answer=log10(n.num_1);
+    answer->final_answer=mod(|n|);
     return SUCCESS;
 }
